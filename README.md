@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MtKrc
 - 👀 I’m interested in all type of software
 - 🌱 I’m currently learning web applications
-- 💞️ I’m looking to collaborate on (not now)
+- 💻 I’m looking to collaborate on (not now)
 - 📫 How to reach me? my e-mail address is metekaracaus@gmail.com
 
 <!---
