@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @MtKrc
-- 👀 I’m interested in all type of software
-- 🌱 I’m currently learning web applications
-- 💻 I’m looking to collaborate on (not now)
-- 📫 How to reach me? my e-mail address is metekaracaus@gmail.com
+👋 Hi, I’m Mete (@MtKrc)  
+🌱 I’m learning web & mobile app development  
+💻 I like working on side projects and startup ideas
 
 <!---
 MtKrc/MtKrc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
