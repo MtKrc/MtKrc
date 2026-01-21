@@ -1,6 +1,6 @@
 👋 Hi, I’m Mete      
 🌱 I’m learning web & mobile app development  
-💻 I like working on side projects and startup ideas 
+💻 I like working on side projects and startup ideas  
 
 <!---
 MtKrc/MtKrc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
